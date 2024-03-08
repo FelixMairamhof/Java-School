@@ -1,0 +1,8 @@
+Movies Analyzer V1.0
+Analysierte Datei: TopMoviesUS.csv
+Anzahl der Filme in der Datei: 91
+---------------------------------------------------------------
+Erfolgreichster Film: Tiltle: Star Wars - Das Erwachen der Macht, Regie: J.J. Abrams, Einnahmen: 936662225,Besucher: 111110584, Budget: 200, Kinostart: 2015-12-18
+Top Besucherzahlen: Tiltle: Krieg der Sterne, Regie: George Lucas, Einnahmen: 461038066,Besucher: 169289011, Budget: 11, Kinostart: 1977-05-25
+Kleinstes Budget: Tiltle: Krieg der Sterne, Regie: George Lucas, Einnahmen: 461038066,Besucher: 169289011, Budget: 11, Kinostart: 1977-05-25
+Neuester Film: Tiltle: Star Wars - Das Erwachen der Macht, Regie: J.J. Abrams, Einnahmen: 936662225,Besucher: 111110584, Budget: 200, Kinostart: 2015-12-18
