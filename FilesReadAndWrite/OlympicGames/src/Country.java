@@ -13,6 +13,15 @@ public class Country {
         this.countBronze = countBronze;
     }
 
+    public int getMedaillenGesamt(){
+        return this.countBronze + this.countSilver +this.countGold;
+    }
+    public String toString(){
+        return "Rang: " + this.rank + ", Land: " + this.name +
+                ", Medaillen: " +this.countGold + "/" + this.countSilver + "/" + this.countBronze +
+                ", Gesamt: " + getMedaillenGesamt();
+    }
+
     public int getRank() {
         return rank;
     }
@@ -51,13 +60,5 @@ public class Country {
 
     public void setCountBronze(int countBronze) {
         this.countBronze = countBronze;
-    }
-    public int getMedaillenGesamt(){
-        return this.countBronze + this.countSilver +this.countGold;
-    }
-    public String toString(){
-        return "Rang: " + this.rank + ", Land: " + this.name +
-                ", Medaillen: " +this.countGold + "/" + this.countSilver + "/" + this.countBronze +
-                ", Gesamt: " + getMedaillenGesamt();
     }
 }
