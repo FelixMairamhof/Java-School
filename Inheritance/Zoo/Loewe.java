@@ -1,10 +1,11 @@
 package at.htlklu.fsst;
 
-public class Fledermaus extends Saeugetier{
+public class Loewe extends Saeugetier{
 
-    public Fledermaus(int alter, String name) {
+    public Loewe(int alter, String name) {
         super(alter, name);
     }
+
 
     @Override
     public String toString() {
