@@ -1,0 +1,6 @@
+Motorbike: Driver: Mikosch, km: 164, Fuel: 13,612 l
+RaceCar: Driver: Phil, km: 182, Fuel: 9,464 l
+RaceCar: Driver: Tobi, km: 141, Fuel: 7,332 l
+Motorbike: Driver: Conni, km: 77, Fuel: 6,391 l
+RaceCar: Driver: Helena, km: 117, Fuel: 6,084 l
+Motorbike: Driver: Gerals, km: 66, Fuel: 5,478 l
