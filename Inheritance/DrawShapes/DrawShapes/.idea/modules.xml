@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Shapes-Files-Paint.iml" filepath="$PROJECT_DIR$/Shapes-Files-Paint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DrawShapes.iml" filepath="$PROJECT_DIR$/DrawShapes.iml" />
     </modules>
   </component>
 </project>
