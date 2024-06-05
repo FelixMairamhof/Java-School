@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/FilesReadAndWrite/OlympicGames/OlympicGames.iml" filepath="$PROJECT_DIR$/FilesReadAndWrite/OlympicGames/OlympicGames.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/School.iml" filepath="$PROJECT_DIR$/.idea/School.iml" />
       <module fileurl="file://$PROJECT_DIR$/FilesReadAndWrite/TopMovies/TopMovies.iml" filepath="$PROJECT_DIR$/FilesReadAndWrite/TopMovies/TopMovies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMaps/WorldCities/WorldCities.iml" filepath="$PROJECT_DIR$/HashMaps/WorldCities/WorldCities.iml" />
     </modules>
   </component>
 </project>
