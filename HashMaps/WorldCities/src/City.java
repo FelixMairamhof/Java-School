@@ -7,12 +7,7 @@ public class City
 
     @Override
     public String toString() {
-        return "City{" +
-                "name='" + name + '\'' +
-                ", population=" + population +
-                ", country='" + country + '\'' +
-                ", iso3='" + iso3 + '\'' +
-                '}';
+        return "City " + name + ", Country: " + country + ", Population: " + population;
     }
 
     public City(String name, int population, String country, String iso3) {

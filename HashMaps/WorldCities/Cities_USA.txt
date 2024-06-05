@@ -1,0 +1,771 @@
+City Aberdeen, Country: United States of America, Population: 24400
+City Aberdeen, Country: United States of America, Population: 24854
+City Abilene, Country: United States of America, Population: 108008
+City Aiken, Country: United States of America, Population: 36716
+City Akron, Country: United States of America, Population: 451155
+City Alamogordo, Country: United States of America, Population: 33710
+City Albany, Country: United States of America, Population: 48066
+City Albany, Country: United States of America, Population: 82280
+City Albany, Country: United States of America, Population: 484286
+City Albert Lea, Country: United States of America, Population: 19063
+City Albuquerque, Country: United States of America, Population: 725723
+City Alexandria, Country: United States of America, Population: 60876
+City Alexandria, Country: United States of America, Population: 127273
+City Alice, Country: United States of America, Population: 21122
+City Allakaket, Country: United States of America, Population: 97
+City Allentown, Country: United States of America, Population: 300980
+City Alliance, Country: United States of America, Population: 8269
+City Alpena, Country: United States of America, Population: 14524
+City Alpine, Country: United States of America, Population: 6429
+City Alton, Country: United States of America, Population: 57386
+City Altoona, Country: United States of America, Population: 62784
+City Amarillo, Country: United States of America, Population: 178526
+City Ambler, Country: United States of America, Population: 258
+City Ames, Country: United States of America, Population: 56855
+City Anchorage, Country: United States of America, Population: 252068
+City Anderson, Country: United States of America, Population: 43475
+City Aniak, Country: United States of America, Population: 501
+City Ann Arbor, Country: United States of America, Population: 189893
+City Annapolis, Country: United States of America, Population: 58776
+City Apalachicola, Country: United States of America, Population: 2134
+City Appleton, Country: United States of America, Population: 136888
+City Arcata, Country: United States of America, Population: 19052
+City Ardmore, Country: United States of America, Population: 24467
+City Arlington, Country: United States of America, Population: 545107
+City Asheville, Country: United States of America, Population: 105775
+City Astoria, Country: United States of America, Population: 9773
+City Athens, Country: United States of America, Population: 78017
+City Atka, Country: United States of America, Population: 61
+City Atlanta, Country: United States of America, Population: 2464454
+City Atlantic City, Country: United States of America, Population: 58563
+City Atqasuk, Country: United States of America, Population: 201
+City Auburn, Country: United States of America, Population: 61881
+City Augusta, Country: United States of America, Population: 21301
+City Augusta, Country: United States of America, Population: 152895
+City Aurora, Country: United States of America, Population: 273949
+City Aurora, Country: United States of America, Population: 431966
+City Austin, Country: United States of America, Population: 919684
+City Bakersfield, Country: United States of America, Population: 367259
+City Baltimore, Country: United States of America, Population: 1432946
+City Bangor, Country: United States of America, Population: 40843
+City Bar Harbor, Country: United States of America, Population: 4483
+City Barlett, Country: United States of America, Population: 164843
+City Barrow, Country: United States of America, Population: 3412
+City Barstow, Country: United States of America, Population: 21119
+City Bartlesville, Country: United States of America, Population: 24935
+City Baton Rouge, Country: United States of America, Population: 322710
+City Battle Creek, Country: United States of America, Population: 62454
+City Bay City, Country: United States of America, Population: 17487
+City Bay City, Country: United States of America, Population: 51558
+City Baytown, Country: United States of America, Population: 76687
+City Beaufort, Country: United States of America, Population: 21941
+City Beaumont, Country: United States of America, Population: 107455
+City Beaver Falls, Country: United States of America, Population: 64814
+City Beckley, Country: United States of America, Population: 27358
+City Beeville, Country: United States of America, Population: 11748
+City Belleville, Country: United States of America, Population: 92409
+City Bellingham, Country: United States of America, Population: 86565
+City Bemidji, Country: United States of America, Population: 14063
+City Bend, Country: United States of America, Population: 70598
+City Benton Harbor, Country: United States of America, Population: 34637
+City Berkeley, Country: United States of America, Population: 298257
+City Bethel, Country: United States of America, Population: 5440
+City Big Delta, Country: United States of America, Population: 591
+City Big Spring, Country: United States of America, Population: 23987
+City Billings, Country: United States of America, Population: 102151
+City Biloxi, Country: United States of America, Population: 43857
+City Binghamton, Country: United States of America, Population: 92687
+City Birmingham, Country: United States of America, Population: 670142
+City Bishop, Country: United States of America, Population: 4249
+City Bismarck, Country: United States of America, Population: 60288
+City Blacksburg, Country: United States of America, Population: 53845
+City Bloomington, Country: United States of America, Population: 85781
+City Bloomington, Country: United States of America, Population: 99842
+City Boise, Country: United States of America, Population: 242029
+City Boston, Country: United States of America, Population: 2528070
+City Boulder, Country: United States of America, Population: 106897
+City Boulder City, Country: United States of America, Population: 15072
+City Bowling Green, Country: United States of America, Population: 33147
+City Bowling Green, Country: United States of America, Population: 61349
+City Bozeman, Country: United States of America, Population: 39049
+City Brainerd, Country: United States of America, Population: 21202
+City Bremerton, Country: United States of America, Population: 82039
+City Bridgeport, Country: United States of America, Population: 578545
+City Bristol, Country: United States of America, Population: 31276
+City Brookings, Country: United States of America, Population: 20313
+City Brownsville, Country: United States of America, Population: 174707
+City Brownwood, Country: United States of America, Population: 20261
+City Brunswick, Country: United States of America, Population: 31785
+City Bryan, Country: United States of America, Population: 108156
+City Buffalo, Country: United States of America, Population: 647778
+City Bullhead City, Country: United States of America, Population: 37989
+City Burley, Country: United States of America, Population: 11644
+City Burlington, Country: United States of America, Population: 27690
+City Burlington, Country: United States of America, Population: 66204
+City Butte, Country: United States of America, Population: 31478
+City Cadillac, Country: United States of America, Population: 12177
+City Calais, Country: United States of America, Population: 1781
+City Caldwell, Country: United States of America, Population: 83403
+City Canton, Country: United States of America, Population: 168410
+City Cantwell, Country: United States of America, Population: 222
+City Cape Coral, Country: United States of America, Population: 117387
+City Cape Girardeau, Country: United States of America, Population: 38165
+City Carbondale, Country: United States of America, Population: 28473
+City Carlsbad, Country: United States of America, Population: 25240
+City Carson City, Country: United States of America, Population: 53767
+City Casa Grande, Country: United States of America, Population: 38396
+City Casper, Country: United States of America, Population: 56149
+City Cedar City, Country: United States of America, Population: 25371
+City Cedar Rapids, Country: United States of America, Population: 149338
+City Centralia, Country: United States of America, Population: 16993
+City Chadron, Country: United States of America, Population: 5686
+City Charleston, Country: United States of America, Population: 87113
+City Charleston, Country: United States of America, Population: 254295
+City Charlotte, Country: United States of America, Population: 943574
+City Charlottesville, Country: United States of America, Population: 61314
+City Chattanooga, Country: United States of America, Population: 206571
+City Cheyenne, Country: United States of America, Population: 64185
+City Chicago, Country: United States of America, Population: 5915976
+City Chico, Country: United States of America, Population: 83226
+City Chignik, Country: United States of America, Population: 118
+City Childress, Country: United States of America, Population: 5662
+City Cincinnati, Country: United States of America, Population: 971191
+City Circle, Country: United States of America, Population: 100
+City Clarksburg, Country: United States of America, Population: 22502
+City Clarksville, Country: United States of America, Population: 122115
+City Cleburne, Country: United States of America, Population: 32263
+City Cleveland, Country: United States of America, Population: 1169757
+City Clovis, Country: United States of America, Population: 33477
+City Cody, Country: United States of America, Population: 8976
+City Coeur d'Alene, Country: United States of America, Population: 34514
+City Coffeyville, Country: United States of America, Population: 10955
+City Cold Bay, Country: United States of America, Population: 154
+City Colorado Springs, Country: United States of America, Population: 427272
+City Columbia, Country: United States of America, Population: 74866
+City Columbia, Country: United States of America, Population: 244754
+City Columbia, Country: United States of America, Population: 257185
+City Columbus, Country: United States of America, Population: 202225
+City Columbus, Country: United States of America, Population: 1003418
+City Concord, Country: United States of America, Population: 42646
+City Conroe, Country: United States of America, Population: 41643
+City Conway, Country: United States of America, Population: 56759
+City Coos Bay, Country: United States of America, Population: 23685
+City Coral Gables, Country: United States of America, Population: 98700
+City Coral Springs, Country: United States of America, Population: 185548
+City Cordova, Country: United States of America, Population: 1622
+City Corpus Christi, Country: United States of America, Population: 249977
+City Corvallis, Country: United States of America, Population: 54865
+City Council Bluffs, Country: United States of America, Population: 80284
+City Covington, Country: United States of America, Population: 313064
+City Craig, Country: United States of America, Population: 9315
+City Crescent City, Country: United States of America, Population: 9439
+City Crestview, Country: United States of America, Population: 19552
+City Crookston, Country: United States of America, Population: 8215
+City Cumberland, Country: United States of America, Population: 20831
+City Dalhart, Country: United States of America, Population: 6763
+City Dallas, Country: United States of America, Population: 3004852
+City Dalton, Country: United States of America, Population: 45077
+City Danville, Country: United States of America, Population: 43176
+City Davenport, Country: United States of America, Population: 178282
+City Dayton, Country: United States of America, Population: 466067
+City Daytona Beach, Country: United States of America, Population: 140775
+City Decatur, Country: United States of America, Population: 74967
+City Del Rio, Country: United States of America, Population: 35803
+City Delano, Country: United States of America, Population: 42396
+City Deming, Country: United States of America, Population: 15523
+City Denali Park, Country: United States of America, Population: 1063
+City Denton, Country: United States of America, Population: 138952
+City Denver, Country: United States of America, Population: 1930799
+City Des Moines, Country: United States of America, Population: 286917
+City Detroit, Country: United States of America, Population: 2526135
+City Devils Lake, Country: United States of America, Population: 7312
+City Dickinson, Country: United States of America, Population: 15987
+City Dillingham, Country: United States of America, Population: 1710
+City Dillon, Country: United States of America, Population: 4213
+City Dodge City, Country: United States of America, Population: 25237
+City Dothan, Country: United States of America, Population: 61715
+City Douglas, Country: United States of America, Population: 5838
+City Douglas, Country: United States of America, Population: 12159
+City Douglas, Country: United States of America, Population: 23438
+City Dover, Country: United States of America, Population: 54662
+City Dublin, Country: United States of America, Population: 19258
+City Dubuque, Country: United States of America, Population: 59834
+City Duluth, Country: United States of America, Population: 82026
+City Dumas, Country: United States of America, Population: 13551
+City Durango, Country: United States of America, Population: 19127
+City Durham, Country: United States of America, Population: 257114
+City Eagle, Country: United States of America, Population: 104
+City Eagle Pass, Country: United States of America, Population: 39683
+City Eau Claire, Country: United States of America, Population: 71296
+City Edinburg, Country: United States of America, Population: 114573
+City El Centro, Country: United States of America, Population: 41661
+City El Dorado, Country: United States of America, Population: 21384
+City El Paso, Country: United States of America, Population: 658331
+City Elgin, Country: United States of America, Population: 244050
+City Elkhart, Country: United States of America, Population: 100295
+City Elko, Country: United States of America, Population: 17537
+City Elmira, Country: United States of America, Population: 46201
+City Ely, Country: United States of America, Population: 3687
+City Ely, Country: United States of America, Population: 3911
+City Emmonak, Country: United States of America, Population: 100
+City Emporia, Country: United States of America, Population: 27796
+City Enid, Country: United States of America, Population: 45963
+City Enterprise, Country: United States of America, Population: 23388
+City Erie, Country: United States of America, Population: 138991
+City Escanaba, Country: United States of America, Population: 14970
+City Eugene, Country: United States of America, Population: 195183
+City Eureka, Country: United States of America, Population: 34012
+City Evanston, Country: United States of America, Population: 212243
+City Evansville, Country: United States of America, Population: 144788
+City Everett, Country: United States of America, Population: 291948
+City Fairbanks, Country: United States of America, Population: 43608
+City Falfurrias, Country: United States of America, Population: 5152
+City False Pass, Country: United States of America, Population: 35
+City Fargo, Country: United States of America, Population: 127472
+City Faribault, Country: United States of America, Population: 24004
+City Farmington, Country: United States of America, Population: 42917
+City Fayetteville, Country: United States of America, Population: 108267
+City Fayetteville, Country: United States of America, Population: 184040
+City Flagstaff, Country: United States of America, Population: 60779
+City Flint, Country: United States of America, Population: 206235
+City Florence, Country: United States of America, Population: 40806
+City Florence, Country: United States of America, Population: 43977
+City Fond du Lac, Country: United States of America, Population: 48079
+City Fort Collins, Country: United States of America, Population: 178818
+City Fort Lauderdale, Country: United States of America, Population: 1103781
+City Fort Pierce, Country: United States of America, Population: 132984
+City Fort Smith, Country: United States of America, Population: 87986
+City Fort Stockton, Country: United States of America, Population: 7434
+City Fort Wayne, Country: United States of America, Population: 264793
+City Fort Yukon, Country: United States of America, Population: 833
+City Frankfort, Country: United States of America, Population: 32214
+City Fredericksburg, Country: United States of America, Population: 76848
+City Freeport, Country: United States of America, Population: 43762
+City Fresno, Country: United States of America, Population: 540768
+City Ft. Dodge, Country: United States of America, Population: 26284
+City Ft. Myers, Country: United States of America, Population: 120810
+City Ft. Worth, Country: United States of America, Population: 1090830
+City Gadsden, Country: United States of America, Population: 39265
+City Gainesville, Country: United States of America, Population: 158390
+City Galena, Country: United States of America, Population: 485
+City Galesburg, Country: United States of America, Population: 32078
+City Gallup, Country: United States of America, Population: 21627
+City Galveston, Country: United States of America, Population: 62516
+City Gambell, Country: United States of America, Population: 681
+City Garden City, Country: United States of America, Population: 27494
+City Gary, Country: United States of America, Population: 335737
+City Gila Bend, Country: United States of America, Population: 2012
+City Gillette, Country: United States of America, Population: 26107
+City Glasgow, Country: United States of America, Population: 3144
+City Glendale, Country: United States of America, Population: 363360
+City Glendive, Country: United States of America, Population: 5277
+City Glenwood Springs, Country: United States of America, Population: 11272
+City Goldsboro, Country: United States of America, Population: 42922
+City Goodland, Country: United States of America, Population: 4258
+City Goodnews Bay, Country: United States of America, Population: 230
+City Grand Canyon, Country: United States of America, Population: 1068
+City Grand Forks, Country: United States of America, Population: 53496
+City Grand Island, Country: United States of America, Population: 45208
+City Grand Junction, Country: United States of America, Population: 75076
+City Grand Rapids, Country: United States of America, Population: 361934
+City Grants Pass, Country: United States of America, Population: 36690
+City Great Falls, Country: United States of America, Population: 61316
+City Greeley, Country: United States of America, Population: 106142
+City Green Bay, Country: United States of America, Population: 149811
+City Green River, Country: United States of America, Population: 10239
+City Greensboro, Country: United States of America, Population: 310328
+City Greenville, Country: United States of America, Population: 36539
+City Greenville, Country: United States of America, Population: 81661
+City Greenville, Country: United States of America, Population: 203256
+City Gulfport, Country: United States of America, Population: 76646
+City Gulkana, Country: United States of America, Population: 119
+City Gunnison, Country: United States of America, Population: 6273
+City Guymon, Country: United States of America, Population: 10843
+City Hagerstown, Country: United States of America, Population: 58487
+City Hampton, Country: United States of America, Population: 256601
+City Hancock, Country: United States of America, Population: 10322
+City Hardin, Country: United States of America, Population: 3975
+City Harlingen, Country: United States of America, Population: 86749
+City Harrisburg, Country: United States of America, Population: 289210
+City Harrisonburg, Country: United States of America, Population: 42131
+City Hartford, Country: United States of America, Population: 518509
+City Hattiesburg, Country: United States of America, Population: 53498
+City Havre, Country: United States of America, Population: 10266
+City Hays, Country: United States of America, Population: 20638
+City Helena, Country: United States of America, Population: 33032
+City Hereford, Country: United States of America, Population: 15023
+City Hickory, Country: United States of America, Population: 64898
+City Hilo, Country: United States of America, Population: 47720
+City Hobbs, Country: United States of America, Population: 28375
+City Homer, Country: United States of America, Population: 5021
+City Homestead, Country: United States of America, Population: 60673
+City Honolulu, Country: United States of America, Population: 578828
+City Hoonah, Country: United States of America, Population: 361
+City Hooper Bay, Country: United States of America, Population: 623
+City Hopkinsville, Country: United States of America, Population: 31630
+City Hot Springs, Country: United States of America, Population: 40826
+City Houlton, Country: United States of America, Population: 6051
+City Houma, Country: United States of America, Population: 48196
+City Houston, Country: United States of America, Population: 4053287
+City Hughes, Country: United States of America, Population: 78
+City Huntington, Country: United States of America, Population: 66957
+City Huntsville, Country: United States of America, Population: 34444
+City Huntsville, Country: United States of America, Population: 185474
+City Hutchinson, Country: United States of America, Population: 42536
+City Hydaburg, Country: United States of America, Population: 382
+City Idaho Falls, Country: United States of America, Population: 65787
+City Independence, Country: United States of America, Population: 130695
+City Indianapolis, Country: United States of America, Population: 1104641
+City International Falls, Country: United States of America, Population: 10832
+City Iowa City, Country: United States of America, Population: 81343
+City Iron Mountain, Country: United States of America, Population: 12011
+City Ironwood, Country: United States of America, Population: 6400
+City Irvine, Country: United States of America, Population: 1611303
+City Ithaca, Country: United States of America, Population: 45544
+City Jackson, Country: United States of America, Population: 62638
+City Jackson, Country: United States of America, Population: 213799
+City Jacksonville, Country: United States of America, Population: 72651
+City Jacksonville, Country: United States of America, Population: 904953
+City Jamestown, Country: United States of America, Population: 14954
+City Jamestown, Country: United States of America, Population: 37916
+City Janesville, Country: United States of America, Population: 65476
+City Jefferson City, Country: United States of America, Population: 45511
+City John Day, Country: United States of America, Population: 1437
+City Johnson City, Country: United States of America, Population: 68070
+City Johnstown, Country: United States of America, Population: 45821
+City Joliet, Country: United States of America, Population: 362946
+City Jonesboro, Country: United States of America, Population: 58322
+City Joplin, Country: United States of America, Population: 60290
+City Juneau, Country: United States of America, Population: 26172
+City Kailua-Kona, Country: United States of America, Population: 9870
+City Kaktovik, Country: United States of America, Population: 101
+City Kalamazoo, Country: United States of America, Population: 128759
+City Kalispell, Country: United States of America, Population: 25040
+City Kaltag, Country: United States of America, Population: 190
+City Kanab, Country: United States of America, Population: 2861
+City Kankakee, Country: United States of America, Population: 48115
+City Kansas City, Country: United States of America, Population: 324221
+City Kansas City, Country: United States of America, Population: 955272
+City Karluk, Country: United States of America, Population: 96
+City Kearney, Country: United States of America, Population: 30155
+City Kenai, Country: United States of America, Population: 6580
+City Kennewick, Country: United States of America, Population: 82331
+City Ketchikan, Country: United States of America, Population: 8121
+City Key West, Country: United States of America, Population: 27011
+City Killeen, Country: United States of America, Population: 120464
+City King Salmon, Country: United States of America, Population: 292
+City Kingman, Country: United States of America, Population: 33306
+City Kingsport, Country: United States of America, Population: 50709
+City Kingsville, Country: United States of America, Population: 24560
+City Kirksville, Country: United States of America, Population: 18083
+City Kissimmee, Country: United States of America, Population: 144589
+City Kitty Hawk, Country: United States of America, Population: 2109
+City Kivalina, Country: United States of America, Population: 374
+City Klamath Falls, Country: United States of America, Population: 31090
+City Knoxville, Country: United States of America, Population: 417137
+City Kobuk, Country: United States of America, Population: 151
+City Kodiak, Country: United States of America, Population: 7804
+City Kokomo, Country: United States of America, Population: 53674
+City Kotlit, Country: United States of America, Population: 1002
+City Kotzebue, Country: United States of America, Population: 2873
+City Koyuk, Country: United States of America, Population: 254
+City Koyukuk, Country: United States of America, Population: 101
+City La Crosse, Country: United States of America, Population: 69599
+City La Grande, Country: United States of America, Population: 13646
+City La Grange, Country: United States of America, Population: 28887
+City Lafayette, Country: United States of America, Population: 98104
+City Lafayette, Country: United States of America, Population: 135205
+City Lake Charles, Country: United States of America, Population: 77065
+City Lake City, Country: United States of America, Population: 20159
+City Lake Havasu City, Country: United States of America, Population: 55442
+City Lake Minchumina, Country: United States of America, Population: 32
+City Lakeville, Country: United States of America, Population: 156151
+City Lamar, Country: United States of America, Population: 8567
+City Lancaster, Country: United States of America, Population: 42356
+City Lancaster, Country: United States of America, Population: 209489
+City Lancaster, Country: United States of America, Population: 225799
+City Lander, Country: United States of America, Population: 6742
+City Lansing, Country: United States of America, Population: 198821
+City Laramie, Country: United States of America, Population: 25587
+City Laredo, Country: United States of America, Population: 322768
+City Las Cruces, Country: United States of America, Population: 97675
+City Las Vegas, Country: United States of America, Population: 15521
+City Las Vegas, Country: United States of America, Population: 1150717
+City Laurel, Country: United States of America, Population: 23366
+City Lawrence, Country: United States of America, Population: 88020
+City Lawton, Country: United States of America, Population: 85795
+City Lead, Country: United States of America, Population: 2311
+City Leesburg, Country: United States of America, Population: 33929
+City Lewiston, Country: United States of America, Population: 40096
+City Lewiston, Country: United States of America, Population: 46689
+City Lexington, Country: United States of America, Population: 244972
+City Lihue, Country: United States of America, Population: 10694
+City Lima, Country: United States of America, Population: 54135
+City Lincoln, Country: United States of America, Population: 244146
+City Little Rock, Country: United States of America, Population: 227555
+City Logan, Country: United States of America, Population: 58664
+City London, Country: United States of America, Population: 7844
+City Long Beach, Country: United States of America, Population: 1249195
+City Longview, Country: United States of America, Population: 51290
+City Longview, Country: United States of America, Population: 75658
+City Los Alamos, Country: United States of America, Population: 11997
+City Los Angeles, Country: United States of America, Population: 8097410
+City Louisville, Country: United States of America, Population: 595819
+City Lowell, Country: United States of America, Population: 415074
+City Lubbock, Country: United States of America, Population: 212343
+City Lufkin, Country: United States of America, Population: 38465
+City Lumberton, Country: United States of America, Population: 27049
+City Lynchburg, Country: United States of America, Population: 84581
+City Macon, Country: United States of America, Population: 104932
+City Madison, Country: United States of America, Population: 276036
+City Madisonville, Country: United States of America, Population: 20858
+City Manchester, Country: United States of America, Population: 153221
+City Manhattan, Country: United States of America, Population: 51289
+City Mankato, Country: United States of America, Population: 45731
+City Mansfield, Country: United States of America, Population: 64039
+City Marietta, Country: United States of America, Population: 61360
+City Marinette, Country: United States of America, Population: 19170
+City Marion, Country: United States of America, Population: 34249
+City Marquette, Country: United States of America, Population: 23711
+City Mason City, Country: United States of America, Population: 27327
+City McAlester, Country: United States of America, Population: 19894
+City McAllen, Country: United States of America, Population: 243291
+City McCook, Country: United States of America, Population: 8003
+City McGrath, Country: United States of America, Population: 138
+City Medford, Country: United States of America, Population: 89081
+City Mekoryuk, Country: United States of America, Population: 99
+City Melbourne, Country: United States of America, Population: 170870
+City Memphis, Country: United States of America, Population: 753843
+City Mendocino, Country: United States of America, Population: 548
+City Merced, Country: United States of America, Population: 84355
+City Meridian, Country: United States of America, Population: 40863
+City Mesa, Country: United States of America, Population: 762217
+City Metairie, Country: United States of America, Population: 270171
+City Miami, Country: United States of America, Population: 2983947
+City Miami Beach, Country: United States of America, Population: 248538
+City Midland, Country: United States of America, Population: 98141
+City Miles City, Country: United States of America, Population: 8399
+City Milwaukee, Country: United States of America, Population: 983590
+City Minneapolis, Country: United States of America, Population: 1491886
+City Minot, Country: United States of America, Population: 37162
+City Missoula, Country: United States of America, Population: 68010
+City Mitchell, Country: United States of America, Population: 14973
+City Moab, Country: United States of America, Population: 5309
+City Mobile, Country: United States of America, Population: 221870
+City Mobridge, Country: United States of America, Population: 3083
+City Modesto, Country: United States of America, Population: 269697
+City Monroe, Country: United States of America, Population: 76674
+City Montana, Country: United States of America, Population: 10
+City Monterey, Country: United States of America, Population: 77297
+City Montgomery, Country: United States of America, Population: 194491
+City Monticello, Country: United States of America, Population: 1811
+City Montpelier, Country: United States of America, Population: 2775
+City Montpelier, Country: United States of America, Population: 8183
+City Montrose, Country: United States of America, Population: 18463
+City Moorhead, Country: United States of America, Population: 34332
+City Morgantown, Country: United States of America, Population: 43882
+City Mountain Village, Country: United States of America, Population: 755
+City Mt. Shasta, Country: United States of America, Population: 3742
+City Muncie, Country: United States of America, Population: 75388
+City Murfreesboro, Country: United States of America, Population: 100237
+City Muskegon, Country: United States of America, Population: 70644
+City Muskogee, Country: United States of America, Population: 38995
+City Myrtle Beach, Country: United States of America, Population: 37333
+City Nacogdoches, Country: United States of America, Population: 30691
+City Naples, Country: United States of America, Population: 141902
+City Nashville, Country: United States of America, Population: 703926
+City Natchez, Country: United States of America, Population: 20490
+City National City, Country: United States of America, Population: 104291
+City Needles, Country: United States of America, Population: 6246
+City Nenana, Country: United States of America, Population: 75
+City Nephi, Country: United States of America, Population: 4960
+City New Albany, Country: United States of America, Population: 78381
+City New Bedford, Country: United States of America, Population: 115082
+City New Braunfels, Country: United States of America, Population: 45270
+City New Haven, Country: United States of America, Population: 707883
+City New Iberia, Country: United States of America, Population: 34985
+City New London, Country: United States of America, Population: 61236
+City New Orleans, Country: United States of America, Population: 527428
+City New York, Country: United States of America, Population: 13524139
+City Newark, Country: United States of America, Population: 280123
+City Newhalen, Country: United States of America, Population: 160
+City Newport, Country: United States of America, Population: 35893
+City Niagara Falls, Country: United States of America, Population: 117567
+City Nikolski, Country: United States of America, Population: 18
+City Nome, Country: United States of America, Population: 3021
+City Norfolk, Country: United States of America, Population: 24562
+City Norfolk, Country: United States of America, Population: 645336
+City Norman, Country: United States of America, Population: 113525
+City North Platte, Country: United States of America, Population: 24709
+City Nyac, Country: United States of America, Population: 75
+City Oak Ridge, Country: United States of America, Population: 30471
+City Oakland, Country: United States of America, Population: 953044
+City Ocala, Country: United States of America, Population: 95470
+City Oceanside, Country: United States of America, Population: 396474
+City Odessa, Country: United States of America, Population: 98655
+City Ogden, Country: United States of America, Population: 227774
+City Oklahoma City, Country: United States of America, Population: 660475
+City Olympia, Country: United States of America, Population: 100950
+City Omaha, Country: United States of America, Population: 643034
+City Ontario, Country: United States of America, Population: 11578
+City Orangeburg, Country: United States of America, Population: 24192
+City Orlando, Country: United States of America, Population: 778985
+City Oshkosh, Country: United States of America, Population: 67857
+City Ottumwa, Country: United States of America, Population: 25287
+City Owensboro, Country: United States of America, Population: 61151
+City Paducah, Country: United States of America, Population: 33812
+City Palatka, Country: United States of America, Population: 16094
+City Palm Coast, Country: United States of America, Population: 45030
+City Palm Springs, Country: United States of America, Population: 216461
+City Palmer, Country: United States of America, Population: 9848
+City Panama City, Country: United States of America, Population: 68852
+City Paragould, Country: United States of America, Population: 22886
+City Parkersburg, Country: United States of America, Population: 46749
+City Parowan, Country: United States of America, Population: 2533
+City Pasadena, Country: United States of America, Population: 144618
+City Pasadena, Country: United States of America, Population: 388767
+City Paso Robles, Country: United States of America, Population: 26221
+City Paterson, Country: United States of America, Population: 151205
+City Pecos, Country: United States of America, Population: 7991
+City Pendleton, Country: United States of America, Population: 16669
+City Pensacola, Country: United States of America, Population: 145319
+City Peoria, Country: United States of America, Population: 142622
+City Perryville, Country: United States of America, Population: 113
+City Petersburg, Country: United States of America, Population: 76158
+City Petoskey, Country: United States of America, Population: 9424
+City Philadelphia, Country: United States of America, Population: 3504775
+City Phoenix, Country: United States of America, Population: 2436022
+City Pierre, Country: United States of America, Population: 13734
+City Pilot Point, Country: United States of America, Population: 68
+City Pine Bluff, Country: United States of America, Population: 51472
+City Pittsburgh, Country: United States of America, Population: 1535267
+City Pittsfield, Country: United States of America, Population: 45202
+City Plattsburg, Country: United States of America, Population: 24233
+City Pocatello, Country: United States of America, Population: 57327
+City Point Hope, Country: United States of America, Population: 461
+City Polson, Country: United States of America, Population: 5079
+City Ponca City, Country: United States of America, Population: 24843
+City Pontiac, Country: United States of America, Population: 67994
+City Poplar Bluff, Country: United States of America, Population: 18575
+City Port Arthur, Country: United States of America, Population: 54972
+City Port Charlotte, Country: United States of America, Population: 56806
+City Port Heiden, Country: United States of America, Population: 102
+City Port Lavaca, Country: United States of America, Population: 10715
+City Portland, Country: United States of America, Population: 99504
+City Portland, Country: United States of America, Population: 1207756
+City Poughkeepsie, Country: United States of America, Population: 100670
+City Powell, Country: United States of America, Population: 6054
+City Prescott, Country: United States of America, Population: 47587
+City Presque Isle, Country: United States of America, Population: 9466
+City Price, Country: United States of America, Population: 9175
+City Providence, Country: United States of America, Population: 663726
+City Provo, Country: United States of America, Population: 231238
+City Prudhoe Bay, Country: United States of America, Population: 2337
+City Pueblo, Country: United States of America, Population: 108244
+City Quincy, Country: United States of America, Population: 43419
+City Quinhagak, Country: United States of America, Population: 250
+City Racine, Country: United States of America, Population: 105458
+City Raleigh, Country: United States of America, Population: 789991
+City Rapid City, Country: United States of America, Population: 67760
+City Raton, Country: United States of America, Population: 6820
+City Rawlins, Country: United States of America, Population: 8458
+City Red Devil, Country: United States of America, Population: 24
+City Redding, Country: United States of America, Population: 93871
+City Reno, Country: United States of America, Population: 265363
+City Rhinelander, Country: United States of America, Population: 9633
+City Richfield, Country: United States of America, Population: 7308
+City Richland, Country: United States of America, Population: 39940
+City Richmond, Country: United States of America, Population: 41015
+City Richmond, Country: United States of America, Population: 551443
+City Riverside, Country: United States of America, Population: 297554
+City Riverton, Country: United States of America, Population: 10350
+City Roanoke, Country: United States of America, Population: 144669
+City Rochester, Country: United States of America, Population: 102433
+City Rochester, Country: United States of America, Population: 483177
+City Rock Hill, Country: United States of America, Population: 77165
+City Rock Island, Country: United States of America, Population: 102055
+City Rockford, Country: United States of America, Population: 204371
+City Rocky Mount, Country: United States of America, Population: 57179
+City Roseburg, Country: United States of America, Population: 25454
+City Roswell, Country: United States of America, Population: 45082
+City Sacramento, Country: United States of America, Population: 1035949
+City Safford, Country: United States of America, Population: 9746
+City Saginaw, Country: United States of America, Population: 89457
+City Salem, Country: United States of America, Population: 187966
+City Salem, Country: United States of America, Population: 188982
+City Salina, Country: United States of America, Population: 46877
+City Salinas, Country: United States of America, Population: 152737
+City Salisbury, Country: United States of America, Population: 33907
+City Salmon, Country: United States of America, Population: 3297
+City Salt Lake City, Country: United States of America, Population: 572013
+City San Angelo, Country: United States of America, Population: 87297
+City San Antonio, Country: United States of America, Population: 1364905
+City San Bernardino, Country: United States of America, Population: 973690
+City San Diego, Country: United States of America, Population: 1938570
+City San Francisco, Country: United States of America, Population: 2091036
+City San Jose, Country: United States of America, Population: 1281471
+City San Luis Obispo, Country: United States of America, Population: 54759
+City San Marcos, Country: United States of America, Population: 58553
+City San Mateo, Country: United States of America, Population: 361806
+City Sand Point, Country: United States of America, Population: 667
+City Sanford, Country: United States of America, Population: 189374
+City Santa Barbara, Country: United States of America, Population: 135021
+City Santa Cruz, Country: United States of America, Population: 101530
+City Santa Fe, Country: United States of America, Population: 80943
+City Santa Maria, Country: United States of America, Population: 98092
+City Santa Rosa, Country: United States of America, Population: 193455
+City Sarasota, Country: United States of America, Population: 321223
+City Saratoga Springs, Country: United States of America, Population: 41891
+City Sault Ste. Marie, Country: United States of America, Population: 50173
+City Savannah, Country: United States of America, Population: 155848
+City Schenectady, Country: United States of America, Population: 104767
+City Scottsbluff, Country: United States of America, Population: 20172
+City Scottsdale, Country: United States of America, Population: 15401
+City Scranton, Country: United States of America, Population: 114701
+City Seattle, Country: United States of America, Population: 1821684
+City Selawik, Country: United States of America, Population: 832
+City Selma, Country: United States of America, Population: 19553
+City Seward, Country: United States of America, Population: 2900
+City Shawnee, Country: United States of America, Population: 29160
+City Sheboygan, Country: United States of America, Population: 51148
+City Sherman, Country: United States of America, Population: 38696
+City Shishmaref, Country: United States of America, Population: 254
+City Shreveport, Country: United States of America, Population: 224099
+City Sidney, Country: United States of America, Population: 6221
+City Sioux City, Country: United States of America, Population: 87090
+City Sioux Falls, Country: United States of America, Population: 148030
+City Sitka, Country: United States of America, Population: 8110
+City Skagway, Country: United States of America, Population: 955
+City Slidell, Country: United States of America, Population: 56019
+City Socorro, Country: United States of America, Population: 8117
+City South Bend, Country: United States of America, Population: 171791
+City Southaven, Country: United States of America, Population: 79923
+City Spartanburg, Country: United States of America, Population: 81059
+City Spencer, Country: United States of America, Population: 10938
+City Spokane, Country: United States of America, Population: 272483
+City Spring Hill, Country: United States of America, Population: 91887
+City Springfield, Country: United States of America, Population: 55531
+City Springfield, Country: United States of America, Population: 74450
+City Springfield, Country: United States of America, Population: 125345
+City Springfield, Country: United States of America, Population: 180691
+City Springfield, Country: United States of America, Population: 287003
+City St. Augustine, Country: United States of America, Population: 44214
+City St. Charles, Country: United States of America, Population: 52792
+City St. Charles, Country: United States of America, Population: 213139
+City St. Cloud, Country: United States of America, Population: 85974
+City St. George, Country: United States of America, Population: 79988
+City St. Joseph, Country: United States of America, Population: 74878
+City St. Louis, Country: United States of America, Population: 1259958
+City St. Paul, Country: United States of America, Population: 509961
+City St. Petersburg, Country: United States of America, Population: 523314
+City Stamford, Country: United States of America, Population: 434781
+City State College, Country: United States of America, Population: 64880
+City Stillwater, Country: United States of America, Population: 45212
+City Stockton, Country: United States of America, Population: 488506
+City Sumter, Country: United States of America, Population: 27012
+City Superior, Country: United States of America, Population: 27474
+City Syracuse, Country: United States of America, Population: 403873
+City Tacoma, Country: United States of America, Population: 460273
+City Talkeetna, Country: United States of America, Population: 1078
+City Tallahassee, Country: United States of America, Population: 187402
+City Tampa, Country: United States of America, Population: 1319232
+City Tanacross, Country: United States of America, Population: 136
+City Tanana, Country: United States of America, Population: 291
+City Teller, Country: United States of America, Population: 83
+City Temple, Country: United States of America, Population: 58432
+City Terre Haute, Country: United States of America, Population: 65149
+City Texarkana, Country: United States of America, Population: 52169
+City Texas City, Country: United States of America, Population: 55717
+City Thermopolis, Country: United States of America, Population: 3195
+City Tillamook, Country: United States of America, Population: 6351
+City Titusville, Country: United States of America, Population: 47505
+City Togiak, Country: United States of America, Population: 236
+City Toledo, Country: United States of America, Population: 388449
+City Tomah, Country: United States of America, Population: 10796
+City Tombstone, Country: United States of America, Population: 1396
+City Tonopah, Country: United States of America, Population: 1993
+City Topeka, Country: United States of America, Population: 126830
+City Traverse City, Country: United States of America, Population: 28807
+City Trenton, Country: United States of America, Population: 225713
+City Trinidad, Country: United States of America, Population: 8701
+City Truth or Consequences, Country: United States of America, Population: 6479
+City Tucson, Country: United States of America, Population: 670953
+City Tucumcari, Country: United States of America, Population: 5259
+City Tulare, Country: United States of America, Population: 53005
+City Tulsa, Country: United States of America, Population: 669434
+City Tununak, Country: United States of America, Population: 352
+City Tupelo, Country: United States of America, Population: 33928
+City Tuscaloosa, Country: United States of America, Population: 100594
+City Twin Falls, Country: United States of America, Population: 42958
+City Tyler, Country: United States of America, Population: 101561
+City Ukiah, Country: United States of America, Population: 21826
+City Unalakleet, Country: United States of America, Population: 741
+City Unalaska, Country: United States of America, Population: 1938
+City Urbana, Country: United States of America, Population: 91792
+City Utica, Country: United States of America, Population: 81870
+City Valdez, Country: United States of America, Population: 3283
+City Valdosta, Country: United States of America, Population: 53420
+City Vallejo, Country: United States of America, Population: 133367
+City Van Horn, Country: United States of America, Population: 1797
+City Vancouver, Country: United States of America, Population: 343796
+City Vernal, Country: United States of America, Population: 11175
+City Vernon, Country: United States of America, Population: 11574
+City Vero Beach, Country: United States of America, Population: 51650
+City Vicksburg, Country: United States of America, Population: 24669
+City Victoria, Country: United States of America, Population: 63126
+City Victorville, Country: United States of America, Population: 83496
+City Virginia, Country: United States of America, Population: 8709
+City Virginia Beach, Country: United States of America, Population: 877475
+City Visalia, Country: United States of America, Population: 114699
+City Waco, Country: United States of America, Population: 143157
+City Wahiawa, Country: United States of America, Population: 95336
+City Wailuku, Country: United States of America, Population: 32769
+City Wainwright, Country: United States of America, Population: 174
+City Wales, Country: United States of America, Population: 99
+City Walla Walla, Country: United States of America, Population: 37864
+City Wallace, Country: United States of America, Population: 1028
+City Washington. D.C., Country: United States of America, Population: 2445216
+City Wasilla, Country: United States of America, Population: 8521
+City Waterbury, Country: United States of America, Population: 174236
+City Waterloo, Country: United States of America, Population: 82091
+City Watertown, Country: United States of America, Population: 30938
+City Waterville, Country: United States of America, Population: 20529
+City Waukegan, Country: United States of America, Population: 144539
+City Waukesha, Country: United States of America, Population: 159012
+City Wausau, Country: United States of America, Population: 56100
+City Waycross, Country: United States of America, Population: 17445
+City Wenatchee, Country: United States of America, Population: 45892
+City West Bend, Country: United States of America, Population: 31980
+City West Palm Beach, Country: United States of America, Population: 675521
+City Wheeling, Country: United States of America, Population: 40940
+City White Sulphur Springs, Country: United States of America, Population: 2154
+City Whittier, Country: United States of America, Population: 177
+City Wichita, Country: United States of America, Population: 378543
+City Wichita Falls, Country: United States of America, Population: 97429
+City Wilkes Barre, Country: United States of America, Population: 99824
+City Willcox, Country: United States of America, Population: 4451
+City Williamsport, Country: United States of America, Population: 43791
+City Williston, Country: United States of America, Population: 12767
+City Willmar, Country: United States of America, Population: 18432
+City Wilmington, Country: United States of America, Population: 116205
+City Wilmington, Country: United States of America, Population: 126992
+City Winchester, Country: United States of America, Population: 39418
+City Winnemucca, Country: United States of America, Population: 7997
+City Winona, Country: United States of America, Population: 29757
+City Winslow, Country: United States of America, Population: 9931
+City Winston-Salem, Country: United States of America, Population: 237491
+City Winter Haven, Country: United States of America, Population: 68435
+City Wiseman, Country: United States of America, Population: 14
+City Woodward, Country: United States of America, Population: 12339
+City Worcester, Country: United States of America, Population: 232290
+City Wrangell, Country: United States of America, Population: 1658
+City Yakima, Country: United States of America, Population: 93846
+City Yakutat, Country: United States of America, Population: 109
+City Yankton, Country: United States of America, Population: 14495
+City York, Country: United States of America, Population: 128798
+City Youngstown, Country: United States of America, Population: 194765
+City Yuba City, Country: United States of America, Population: 84324
+City Yuma, Country: United States of America, Population: 88402
+City Zanesville, Country: United States of America, Population: 32514
+City with highest population: New York
+City with lowest population: Montana
