@@ -1,0 +1,53 @@
+Schüler der 3BHEL
+-------------------------------------------
+Ethelda Benmore, Größe:182cm, Gewicht:75.0kg, Notendurchschnitt:1.38
+Bester Schüler/Beste Schülerin: Ethelda Benmore, Notendurchschnitt: 1.38
+Größter Schüler/Größte Schülerin: Ethelda Benmore, Größe: 182
+Ester Gajewski, Größe:194cm, Gewicht:66.3kg, Notendurchschnitt:1.21
+Bester Schüler/Beste Schülerin: Ester Gajewski, Notendurchschnitt: 1.21
+Größter Schüler/Größte Schülerin: Ester Gajewski, Größe: 194
+Maritsa Wedmore., Größe:192cm, Gewicht:65.4kg, Notendurchschnitt:1.04
+Bester Schüler/Beste Schülerin: Maritsa Wedmore., Notendurchschnitt: 1.04
+Tandie Davy, Größe:194cm, Gewicht:72.1kg, Notendurchschnitt:4.8
+Tandi Shotboulte, Größe:178cm, Gewicht:73.2kg, Notendurchschnitt:4.89
+Goddart Dalziell, Größe:168cm, Gewicht:52.8kg, Notendurchschnitt:2.64
+Susannah Plumstead, Größe:171cm, Gewicht:82.2kg, Notendurchschnitt:4.42
+Thea Kohnemann, Größe:187cm, Gewicht:85.6kg, Notendurchschnitt:1.37
+Cordula McCoole, Größe:184cm, Gewicht:76.4kg, Notendurchschnitt:4.84
+Trista Haysom, Größe:180cm, Gewicht:84.0kg, Notendurchschnitt:2.04
+Jeannie De Hailes, Größe:191cm, Gewicht:81.1kg, Notendurchschnitt:2.96
+Leonanie Pettiford, Größe:154cm, Gewicht:69.7kg, Notendurchschnitt:1.19
+Matteo Willatts, Größe:152cm, Gewicht:62.9kg, Notendurchschnitt:3.56
+Aarika Wason, Größe:190cm, Gewicht:58.8kg, Notendurchschnitt:3.74
+Fran McGinny, Größe:171cm, Gewicht:79.1kg, Notendurchschnitt:1.26
+Phelia Blades, Größe:174cm, Gewicht:56.3kg, Notendurchschnitt:2.63
+Dex Reede, Größe:179cm, Gewicht:53.7kg, Notendurchschnitt:2.79
+Roze Bosher, Größe:188cm, Gewicht:72.1kg, Notendurchschnitt:4.29
+Reta Viste, Größe:191cm, Gewicht:66.1kg, Notendurchschnitt:1.43
+Pancho Stockwell, Größe:183cm, Gewicht:79.9kg, Notendurchschnitt:3.98
+Mikaela Wardington, Größe:187cm, Gewicht:51.8kg, Notendurchschnitt:4.42
+Stanislaw Markushkin, Größe:184cm, Gewicht:84.7kg, Notendurchschnitt:4.97
+Gianni Izhaky, Größe:152cm, Gewicht:78.0kg, Notendurchschnitt:1.59
+Kellsie Woodard, Größe:152cm, Gewicht:55.8kg, Notendurchschnitt:3.95
+Carey Raitie, Größe:152cm, Gewicht:62.5kg, Notendurchschnitt:4.64
+Vasily McIlmorie, Größe:183cm, Gewicht:88.9kg, Notendurchschnitt:3.11
+Erskine Yu, Größe:155cm, Gewicht:80.0kg, Notendurchschnitt:2.59
+Hector Greenshiels, Größe:174cm, Gewicht:69.7kg, Notendurchschnitt:1.07
+Kirk Pickrell, Größe:194cm, Gewicht:74.7kg, Notendurchschnitt:2.59
+Cammie Bartosiak, Größe:153cm, Gewicht:60.0kg, Notendurchschnitt:2.07
+Kincaid Pettis, Größe:174cm, Gewicht:85.1kg, Notendurchschnitt:3.24
+Lizzy MacWilliam, Größe:177cm, Gewicht:77.0kg, Notendurchschnitt:3.31
+Drona Leate, Größe:170cm, Gewicht:85.2kg, Notendurchschnitt:3.66
+Gwendolen Ebben, Größe:193cm, Gewicht:57.9kg, Notendurchschnitt:2.64
+Barde Tersay, Größe:165cm, Gewicht:52.9kg, Notendurchschnitt:4.22
+Giulietta Gibben, Größe:180cm, Gewicht:55.0kg, Notendurchschnitt:2.62
+Stefan Fearne, Größe:177cm, Gewicht:64.7kg, Notendurchschnitt:1.91
+Jessika Allon, Größe:166cm, Gewicht:52.0kg, Notendurchschnitt:4.09
+Samara Zorzutti, Größe:184cm, Gewicht:73.3kg, Notendurchschnitt:3.05
+Galina Derges, Größe:153cm, Gewicht:83.9kg, Notendurchschnitt:1.77
+Taffy Rockey, Größe:191cm, Gewicht:63.4kg, Notendurchschnitt:2.82
+Taffy Dukesbury, Größe:171cm, Gewicht:84.5kg, Notendurchschnitt:4.55
+Kleinste Schüler & Schülerinnen:
+Matteo Willatts, Größe:152cm, Gewicht:62.9kg, Notendurchschnitt:3.56
+Gianni Izhaky, Größe:152cm, Gewicht:78.0kg, Notendurchschnitt:1.59
+Kellsie Woodard, Größe:152cm, Gewicht:55.8kg, Notendurchschnitt:3.95
