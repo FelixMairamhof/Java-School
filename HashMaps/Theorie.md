@@ -1,3 +1,4 @@
+Certainly! Here is the complete document with all the sections combined, including the newly added explanation of the `computeIfAbsent` method for `HashMap`:
 
 # Java Collections and Comparators
 
@@ -103,6 +104,60 @@ public class Main {
 - Each key's hash code is computed and used to determine the bucket where the entry is stored.
 - Collisions are handled using a linked list or a balanced tree.
 
+### `computeIfAbsent` Method
+
+#### Definition
+- The `computeIfAbsent` method is used to compute a value for a specified key if the key is not already associated with a value, and then associates the computed value with that key.
+
+#### Syntax
+```java
+V computeIfAbsent(K key, Function<? super K, ? extends V> mappingFunction);
+```
+
+#### Usage
+- The method takes two parameters:
+    - `key`: The key for which the value is to be computed.
+    - `mappingFunction`: A function that computes the value.
+- If the key is not present in the map, `computeIfAbsent` computes the value using the provided mapping function and inserts the key-value pair into the map.
+- If the key is already present in the map, the existing value is returned, and the mapping function is not called.
+
+#### Example
+```java
+import java.util.HashMap;
+import java.util.Map;
+import java.util.function.Function;
+
+public class ComputeIfAbsentExample {
+    public static void main(String[] args) {
+        Map<String, Integer> map = new HashMap<>();
+        map.put("one", 1);
+        map.put("two", 2);
+
+        // Using computeIfAbsent to add a new key-value pair if the key is not already present
+        Integer value = map.computeIfAbsent("three", new Function<String, Integer>() {
+            @Override
+            public Integer apply(String key) {
+                return key.length();
+            }
+        });
+
+        System.out.println(value); // Outputs 5
+        System.out.println(map);   // Outputs {one=1, two=2, three=5}
+
+        // Trying to compute a value for an existing key
+        value = map.computeIfAbsent("two", new Function<String, Integer>() {
+            @Override
+            public Integer apply(String key) {
+                return key.length();
+            }
+        });
+
+        System.out.println(value); // Outputs 2 (existing value)
+        System.out.println(map);   // Outputs {one=1, two=2, three=5}
+    }
+}
+```
+
 ### Example
 ```java
 import java.util.HashMap;
@@ -115,47 +170,51 @@ public class HashMapExample {
         map.put("three", 3);
 
         System.out.println(map.get("two")); // Outputs 2
+
+        // Using computeIfAbsent
+        map.computeIfAbsent("four", key -> 4);
+        System.out.println(map.get("four")); // Outputs 4
     }
 }
 ```
 
-## 4. Theory about Trees
+### Summary
+- `HashMap` is an efficient, unordered collection that stores key-value pairs.
+- The `computeIfAbsent` method is a powerful tool for handling cases where you need to compute and insert values only if the key is not already present in the map.
+- Understanding and using methods like `computeIfAbsent` can help in writing more concise and readable code.
+
+## 4. Theory about TreeMap
 
 ### Definition
-- A tree is a data structure made up of nodes connected by edges.
+- A `TreeMap` is a part of Java’s collection framework that implements the `Map` interface using a tree structure (usually a Red-Black tree).
 
 ### Characteristics
-- A tree has one root node.
-- Each node has zero or more child nodes.
-- Nodes with no children are called leaves.
+- Stores key-value pairs.
+- Does not allow null keys.
+- Sorted according to the natural ordering of its keys, or by a `Comparator` provided at map creation time.
+- Provides guaranteed log(n) time cost for the `containsKey`, `get`, `put`, and `remove` operations.
 
-### Types
-- **Binary Tree**: Each node has at most two children.
-- **Binary Search Tree (BST)**: A binary tree with the property that for each node, all elements in the left subtree are less than the node and all elements in the right subtree are greater.
+### Internal Working
+- Uses a self-balancing binary search tree (Red-Black tree) to store the map.
+- Ensures that the tree remains balanced, providing efficient performance for basic operations.
 
 ### Example
 ```java
-class Node {
-    int value;
-    Node left, right;
+import java.util.TreeMap;
 
-    Node(int value) {
-        this.value = value;
-        left = right = null;
-    }
-}
-
-public class BinaryTree {
-    Node root;
-
-    BinaryTree(int value) {
-        root = new Node(value);
-    }
-
+public class TreeMapExample {
     public static void main(String[] args) {
-        BinaryTree tree = new BinaryTree(10);
-        tree.root.left = new Node(5);
-        tree.root.right = new Node(20);
+        TreeMap<String, Integer> map = new TreeMap<>();
+        map.put("one", 1);
+        map.put("two", 2);
+        map.put("three", 3);
+
+        System.out.println(map.get("two")); // Outputs 2
+
+        // Iterate over the entries in the map
+        for (Map.Entry<String, Integer> entry : map.entrySet()) {
+            System.out.println(entry.getKey() + " - " + entry.getValue());
+        }
     }
 }
 ```
@@ -224,7 +283,6 @@ public class TreeSetExample {
 
 ## Conclusion
 
-Understanding `Comparable`, `Comparator`, and various Java collections like `HashMap`, `HashSet`, `TreeSet`, and tree structures is crucial for efficient data management and retrieval in Java applications. Implementing proper comparisons ensures that objects can be sorted and managed effectively in collections, while understanding the internal workings of different collections helps in choosing the right data structure for specific requirements.
+Understanding `Comparable`, `Comparator`, and various Java collections like `HashMap`, `TreeMap`, `HashSet`, and `TreeSet` is crucial for efficient data management and retrieval in Java applications. Implementing proper comparisons ensures that objects can be sorted and managed effectively in collections, while understanding the internal workings of different collections helps in choosing the right data structure for specific requirements.
 
-
-This markdown file provides a comprehensive guide to Java's `compareTo`, `Comparator`, `Comparable`, and various collection classes, including `HashMap`, `Tree`, `HashSet`, and `TreeSet`.
+This markdown file provides a comprehensive guide to Java's `compareTo`, `Comparator`, `Comparable`, and various collection classes, including `HashMap`, `TreeMap

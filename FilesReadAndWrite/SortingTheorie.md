@@ -1,6 +1,6 @@
    
-CompareMethod
-
+# CompareMethod
+```java
     // Sort countries by total medals count
     Collections.sort(countries, new Comparator<Country>() {
     @Override
@@ -13,18 +13,18 @@ CompareMethod
     for (Country country : countries) {
     bw.write(country.getName() + ", Anzahl der Medaillen: " + country.getTotalMedals() + "\n");
     }
-
-Lambda Expression
-
+```
+# Lambda Expression
+```java
     Collections.sort(countries, Comparator.comparingInt(Country::getTotalMedals));
 
     // Write each country and its total medals count
     for (Country country : countries) {
     bw.write(country.getName() + ", Anzahl der Medaillen: " + country.getTotalMedals() + "\n");
     }
-
-Java Streams
-
+```
+# Java Streams
+```java
     // Sort countries by total medals count using Stream API
     List<Country> sortedCountries = countries.stream()
     .sorted(Comparator.comparingInt(Country::getTotalMedals))
@@ -34,10 +34,9 @@ Java Streams
     for (Country country : sortedCountries) {
     bw.write(country.getName() + ", Anzahl der Medaillen: " + country.getTotalMedals() + "\n");
     }    
-
-Manual Sorting
-
-
+```
+# Manual Sorting
+````java
             // Manual sorting of countries by total medals count
             for (int i = 0; i < countries.size() - 1; i++) {
                 for (int j = i + 1; j < countries.size(); j++) {
@@ -53,3 +52,4 @@ Manual Sorting
             for (Country country : countries) {
                 bw.write(country.getName() + ", Anzahl der Medaillen: " + country.getTotalMedals() + "\n");
             }
+````
