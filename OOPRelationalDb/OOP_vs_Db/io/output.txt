@@ -1,0 +1,16 @@
+
+All Countries
+Country{name='Italien', capital='Rom', inhabitance=58900000, area=301340.0, iso='IT'}
+Country{name='Jamaika', capital='Kingston', inhabitance=2800000, area=10991.0, iso='JM'}
+Country{name='Japan', capital='Tokio', inhabitance=124900000, area=377915.0, iso='JP'}
+Country{name='Kenia', capital='Nairobi', inhabitance=54000000, area=580367.0, iso='KE'}
+Country{name='Lettland', capital='Riga', inhabitance=1900000, area=64589.0, iso='LV'}
+Country{name='Luxemburg', capital='Luxemburg', inhabitance=700000, area=2586.0, iso='LU'}
+Country{name='Mosambik', capital='Maputo', inhabitance=33000000, area=799380.0, iso='MZ'}
+Country{name='Nepal', capital='Kathmandu', inhabitance=30900000, area=147181.0, iso='NP'}
+Country{name='Salomonen', capital='Honiara', inhabitance=700000, area=28896.0, iso='SB'}
+Country{name='Seychellen', capital='Victoria', inhabitance=100000, area=455.0, iso='SC'}
+All countries have more than 50 000 000
+Country{name='Italien', capital='Rom', inhabitance=58900000, area=301340.0, iso='IT'}
+Country{name='Japan', capital='Tokio', inhabitance=124900000, area=377915.0, iso='JP'}
+Country{name='Kenia', capital='Nairobi', inhabitance=54000000, area=580367.0, iso='KE'}
