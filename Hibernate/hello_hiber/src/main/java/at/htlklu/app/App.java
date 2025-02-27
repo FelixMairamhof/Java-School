@@ -27,5 +27,6 @@ public class App {
 
         PersonDao.getPersonsByName(cindy.getName()).forEach(System.out::println);
 
+        JPAUtil.shutdown();
     }
 }
