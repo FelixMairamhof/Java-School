@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="418690f5-ea71-4b75-b563-8392307c29a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../JDBCCars/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCCars/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCCars/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCCars/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCCars/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCCars/src/main/java/at/htl/jdbc/SimpleJdbcCars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBCCars/src/main/java/at/htl/jdbc/SimpleJdbcCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCCars/src/main/java/at/htl/jdbc/SimpleJdbcCars.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736407491350</updated>
-      <workItem from="1736407492809" duration="562000" />
+      <workItem from="1736407492809" duration="673000" />
     </task>
     <servers />
   </component>
