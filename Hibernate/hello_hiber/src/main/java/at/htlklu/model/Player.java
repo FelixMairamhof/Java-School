@@ -87,4 +87,28 @@ public class Player {
         this.team = team;
     }
 
+    @Override
+    public String toString() {
+        return "Player{" +
+                "id=" + id +
+                ", firstname='" + firstname + '\'' +
+                ", weight=" + weight +
+                ", dob=" + dob +
+                ", surname='" + surname + '\'' +
+                ", height=" + height +
+                ", team=" + team.getName() +
+                '}';
+    }
+
+    public Player() {
+    }
+
+    public Player(Double weight, String firstname, LocalDate dob, String surname, Integer height, Team team) {
+        this.weight = weight;
+        this.firstname = firstname;
+        this.dob = dob;
+        this.surname = surname;
+        this.height = height;
+        this.team = team;
+    }
 }
