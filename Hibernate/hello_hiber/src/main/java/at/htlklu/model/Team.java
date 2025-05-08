@@ -42,7 +42,7 @@ public class Team {
     @Column(name = "stadium", nullable = false, length = 45)
     private String stadium;
 
-    @OneToMany(mappedBy = "team")
+    @OneToMany(mappedBy = "team", cascade = CascadeType.ALL)
     private Set<Player> players = new LinkedHashSet<>();
 
     public Integer getId() {

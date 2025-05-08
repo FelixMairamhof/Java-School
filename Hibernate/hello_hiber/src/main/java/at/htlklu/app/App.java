@@ -15,8 +15,9 @@ public class App {
 
         System.out.println("------------- APP START -------------");
 
-        Team team = TeamDao.getTeamById(2);
-        System.out.println(team);
+
+//        Team team = TeamDao.getTeamById(2);
+//        System.out.println(team);
 //        List<Player> players = PlayerDao.getAllPlayers();
 //        players.forEach(p -> System.out.println(p.getFirstname()));
 //
