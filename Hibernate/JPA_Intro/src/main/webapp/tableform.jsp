@@ -12,12 +12,12 @@
 </head>
 <body>
 
-<form action="table.jsp" method="get">
+<form method="get" action="table.jsp">
     <label for="rows">Rows:</label>
-    <input type="number" id="rows" name="rows" value="10"  min="1"><br><br>
+    <input type="number" id="rows" name="rows" value="<%= request.getParameter("rows") != null ? request.getParameter("rows") : 5 %>" min="1"><br><br>
 
     <label for="cols">Columns:</label>
-    <input type="number" id="cols" name="cols" value="10" min="1"><br><br>
+    <input type="number" id="cols" name="cols" value="<%= request.getParameter("cols") != null ? request.getParameter("cols") : 8 %>" min="1"><br><br>
 
     <input type="submit" value="Generate Table">
 </form>

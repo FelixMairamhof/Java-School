@@ -40,7 +40,7 @@
 </table>
 
 <h1>
-    <a href="tableform.jsp">Table Form JSP</a>
+    <a href="tableform.jsp?rows=<%=rows%>&cols=<%=cols%>">Table Form JSP</a>
 </h1>
 </body>
 </html>
