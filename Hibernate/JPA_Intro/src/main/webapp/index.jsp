@@ -7,6 +7,11 @@
 <body>
 <h1><%= "Hello JSP!" %>
 </h1>
+<ul>
+    <li><a href="table.jsp">Table JSP</a></li>
+    <li><a href="tableform.jsp">Table Form JSP</a></li>
+
+</ul>
 
 <h2>Summe von Integers</h2>
 <%
