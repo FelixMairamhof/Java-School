@@ -10,7 +10,7 @@
 <ul>
     <li><a href="table.jsp">Table JSP</a></li>
     <li><a href="tableform.jsp">Table Form JSP</a></li>
-
+    <li><a href="resistorCalculation.jsp">Resistor Calculation Tool</a></li>
 </ul>
 
 <h2>Summe von Integers</h2>

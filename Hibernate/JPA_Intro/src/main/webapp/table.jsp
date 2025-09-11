@@ -23,6 +23,16 @@
         out.println("<p style='color:red;'>Invalid input for rows or columns. Using default values.</p>");
     }
 %>
+<h1>Table Form</h1>
+<form method="get" action="table.jsp">
+    <label for="rows">Rows:</label>
+    <input type="number" id="rows" name="rows" value="<%= request.getParameter("rows") != null ? request.getParameter("rows") : 5 %>" min="1"><br><br>
+
+    <label for="cols">Columns:</label>
+    <input type="number" id="cols" name="cols" value="<%= request.getParameter("cols") != null ? request.getParameter("cols") : 8 %>" min="1"><br><br>
+
+    <input type="submit" value="Generate Table">
+</form>
 <h1>Table with <%= rows %> rows and <%= cols %> columns and random numbers between 10 and 99</h1>
 <table border="1">
     <%
